@@ -24,7 +24,6 @@ jobs:
 
           # Options
           user: carsonwltz
-          template: classic
           base: header, activity, community, repositories, metadata
           plugin_achievements: yes
           plugin_languages: yes
