@@ -24,6 +24,7 @@ jobs:
 
           # Options
           user: carsonwltz
+          filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           plugin_achievements: yes
           plugin_languages: yes
