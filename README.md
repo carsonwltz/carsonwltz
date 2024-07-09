@@ -28,18 +28,20 @@ Sunday                   26 commits          ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+GDScript3                59 mins             ███████████████████████░░   90.53 % 
+GDScript                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Project-BE               1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2024 00:46:52 UTC
+ Last Updated on 09/07/2024 12:20:12 UTC
 <!--END_SECTION:waka-->
