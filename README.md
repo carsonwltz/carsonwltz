@@ -28,18 +28,19 @@ Sunday                   34 commits          ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     9 mins              ████████████████████████░   97.41 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Destiny Calendar         10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/09/2024 00:52:11 UTC
+ Last Updated on 14/09/2024 12:19:08 UTC
 <!--END_SECTION:waka-->
