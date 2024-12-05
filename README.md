@@ -28,18 +28,20 @@ Sunday                   35 commits          ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 26 mins        ████████████████░░░░░░░░░   64.81 % 
+JSON                     46 mins             █████████░░░░░░░░░░░░░░░░   35.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pokemon-2                2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/12/2024 01:01:12 UTC
+ Last Updated on 05/12/2024 12:24:22 UTC
 <!--END_SECTION:waka-->
